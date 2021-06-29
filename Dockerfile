@@ -1,4 +1,4 @@
-FROM docker:latest
+FROM docker:20
 ENV GLIBC_VER=2.31-r0
 
 # install glibc compatibility for alpine
